@@ -5,5 +5,6 @@ Git 1 2 3...
 -salt
 -avocado
 # Instructions
+- Freeze all of them!
 
 
